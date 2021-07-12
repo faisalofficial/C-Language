@@ -5,14 +5,14 @@ Overtime is paid at the rate of Rs. 12.00 per hour for every
 hour worked above 40 hours. Assume that employees do not
 work for fractional part of an hour.
 
-- (b)Write a program to find the factorial value of any number
+- (b) Write a program to find the factorial value of any number
 entered through the keyboard.
 
-- (c)Two numbers are entered through the keyboard. Write a
+- (c) Two numbers are entered through the keyboard. Write a
 program to find the value of one number raised to the power
 of another.
 
-- (d)Write a program to print all the ASCII values and their
+- (d) Write a program to print all the ASCII values and their
 equivalent characters using a while loop. The ASCII values
 vary from 0 to 255.
 
@@ -32,3 +32,9 @@ computer always wins. Rules for the game are as follows:
 - (g) Write a program to enter the numbers till the user wants and
 at the end it should display the count of positive, negative and
 zeros entered
+
+- (h) Write a program to print all prime numbers from 1 to 300.
+(Hint: Use nested loops, break and continue)
+
+- (i) Write a program to add first seven terms of the following
+series using a for loop: 1/1! + 2/2! + 3/3! ..........
